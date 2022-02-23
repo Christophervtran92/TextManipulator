@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TextManipulatorGUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TextManipulatorGUI_jar</output-path>
+    <root id="archive" name="TextManipulatorGUI.jar">
+      <element id="module-output" name="TextManipulatorGUI" />
+    </root>
+  </artifact>
+</component>
