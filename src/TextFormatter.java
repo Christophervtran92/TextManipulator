@@ -22,6 +22,7 @@ public class TextFormatter {
                 break;
             case 3:
                 output = lowerCaseA(input);
+                break;
             case 4:
                 output = lowerCaseB(input);
                 break;
