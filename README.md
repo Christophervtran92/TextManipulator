@@ -5,5 +5,5 @@ Given an interface with an input text box and output text box. The user can inpu
 * Uppercasing the first letter in each sentence
 * Uppercase all the letters in the string
 * Uppercase the first letter in every word
-* Lowercase the first letter in the each sentence
+* Lowercase the first letter in each sentence
 * Lowercase all letters
